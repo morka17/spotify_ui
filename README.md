@@ -1,2 +1,2 @@
-# Flutter Desktop/Web Spotify UI Tutorial
+# Flutter Desktop/Web Spotify UI 
 
